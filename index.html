@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Minimalism x Money – Fashion Data Story</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;700&family=Fraunces:wght@500;600;700&display=swap"
+    rel="stylesheet"
+  />
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Scroll progress bar -->
+  <div class="scroll-progress">
+    <div class="scroll-progress__bar"></div>
+  </div>
+
+  <a href="#main" class="skip-link">Skip to content</a>
+
+  <header class="site-header">
+    <div class="site-header__inner">
+      <div class="site-logo">
+        <span class="site-logo__dot"></span>
+        <span class="site-logo__text">Minimalism x Money</span>
+      </div>
+
+      <nav class="site-nav">
+        <a href="#page-hero" class="site-nav__link">Intro</a>
+        <a href="#page-3" class="site-nav__link">Brands</a>
+        <a href="#page-4" class="site-nav__link">Scatter</a>
+        <a href="#page-5" class="site-nav__link">Revenue</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <!-- HERO -------------------------------------------------------------->
+    <section id="page-hero" class="page page--hero">
+      <div class="page__inner page__inner--hero">
+        <div class="hero-copy">
+          <p class="hero-eyebrow">Fashion, minimalism & attention</p>
+          <h1 class="hero-heading">
+            Do cleaner brands
+            <span class="hero-heading__accent">actually</span>
+            make more money?
+          </h1>
+          <p class="hero-sub">
+            This mini-dashboard looks at 24 fashion + beauty brands from
+            Chanel to Shein. For each, we estimated a
+            <strong>Minimalism score (1–5)</strong> based on site and brand
+            aesthetics, then paired it with <strong>annual revenue</strong>
+            in 2015, 2020, and 2025.
+          </p>
+
+          <div class="hero-cta">
+            <button class="btn btn--primary" data-jump="#page-4">
+              Jump to the data
+            </button>
+            <button class="btn btn--ghost" data-jump="#page-3">
+              Browse all brands
+            </button>
+          </div>
+
+          <p class="hero-footnote">
+            Hover / tap the logos in the charts. Use the year dropdown to
+            see how the relationship shifts over time.
+          </p>
+        </div>
+
+        <div class="hero-visual">
+          <div class="hero-orbit">
+            <div class="hero-orbit__ring hero-orbit__ring--outer"></div>
+            <div class="hero-orbit__ring hero-orbit__ring--inner"></div>
+            <div class="hero-orbit__dot hero-orbit__dot--minimal"></div>
+            <div class="hero-orbit__dot hero-orbit__dot--maximal"></div>
+            <div class="hero-orbit__center">
+              <span class="hero-orbit__label">Clicks</span>
+            </div>
+          </div>
+          <p class="hero-orbit__caption">
+            Cleaner ≠ quieter. Maximalist brands can still dominate revenue,
+            but minimalist sites often concentrate attention.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- STORY / EXPLANATION ---------------------------------------------->
+    <section id="page-2" class="page page--copy">
+      <div class="page__inner">
+        <div class="copy-grid">
+          <div class="copy-block">
+            <h2 class="section-title">How this dataset works</h2>
+            <p>
+              Each brand is tagged with a <strong>segment</strong>
+              (ultra-luxury, luxury, premium, mass premium, fast fashion,
+              beauty retail) and a <strong>Minimalism score</strong> from 1
+              (maximal, noisy, crowded) to 5 (hyper-minimal, lots of white
+              space, very reduced UI).
+            </p>
+            <p>
+              We combine that with reported or estimated
+              <strong>annual revenue in billions</strong> for 2015, 2020, and
+              2025. The goal isn’t to be perfectly econometric; it’s to give
+              a visual sense of how minimalism and money travel together
+              across the fashion spectrum.
+            </p>
+          </div>
+
+          <div class="copy-block copy-block--highlight">
+            <h3 class="copy-block__title">What to look for</h3>
+            <ul class="copy-list">
+              <li>
+                Do ultra-minimal brands (like Celine) sit in a different
+                revenue band than maximal ones (like Shein)?
+              </li>
+              <li>
+                How do <strong>fast fashion giants</strong> compare to
+                <strong>heritage luxury houses</strong>?
+              </li>
+              <li>
+                Which brands grow the most from 2015 → 2025 on the line
+                chart when you change the dropdown?
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- BRAND GALLERY ----------------------------------------------------->
+    <section id="page-3" class="page page--brands">
+      <div class="page__inner">
+        <header class="section-header">
+          <h2 class="section-title">The brands in this story</h2>
+          <p class="section-kicker">
+            Tap a brand to focus the charts on it. Minimalism scores are on
+            a 1–5 scale.
+          </p>
+        </header>
+
+        <div class="brand-grid">
+          <!-- 24 brands – use data-brand EXACTLY as in script.js -->
+          <button class="brand-card" data-brand="Chanel">
+            <div class="brand-thumb">
+              <img src="assets/chanel.png" alt="Chanel logo" />
+            </div>
+            <div class="brand-meta">
+              <p class="brand-name">Chanel</p>
+              <p class="brand-tag">Ultra-luxury · 5/5 minimal</p>
+            </div>
+          </button>
+
+          <button class="brand-card" data-brand="Hermès">
+            <div class="brand-thumb">
+              <img src="assets/hermes.png" alt="Hermès logo" />
+            </div>
+            <div class="brand-meta">
+              <p class="brand-name">Hermès</p>
+              <p class="brand-tag">Ultra-luxury · 5/5 minimal</p>
+            </div>
+          </button>
+
+          <button class="brand-card" data-brand="Louis Vuitton">
+            <div class="brand-thumb">
+              <img src="assets/louis-vuitton.png" alt="Louis Vuitton logo" />
+            </div>
+            <div class="brand-meta">
+              <p class="brand-name">Louis Vuitton</p>
+              <p class="brand-tag">Ultra-luxury · 4/5 minimal</p>
+            </div>
+          </button>
+
+          <button class="brand-card" data-brand="Dior">
+            <div class="brand-thumb">
+              <img src="assets/dior.png" alt="Dior logo" />
+            </div>
+            <div class="brand-meta">
+              <p class="brand-name">Dior</p>
+              <p class="brand-tag">Ultra-luxury · 4/5 minimal</p>
+            </div>
+          </button>
+
+          <button class="brand-card" data-brand="Gucci">
+            <div class="brand-thumb">
+              <img src="assets/gucci.png" alt="Gucci logo" />
+            </div>
+            <div class="brand-meta">
+              <p class="brand-name">Gucci</p>
+              <p class="brand-tag">Luxury · 4/5 minimal</p>
+            </div>
+          </button>
+
+          <button class="brand-card" data-brand="Prada">
+            <div class="brand-thumb">
+              <img src="assets/prada.png" alt="Prada logo" />
+            </div>
+            <div class="brand-meta">
+              <p class="brand-name">Prada</p>
+              <p class="brand-tag">Luxury · 4/5 minimal</p>
+            </div>
+          </button>
+
+          <button class="brand-card" data-brand="Balenciaga">
+            <div class="brand-thumb">
+              <img src="assets/balenciaga.png" alt="Balenciaga logo" />
+            </div>
+            <div class="brand-meta">
+              <p class="brand-name">Balenciaga</p>
+              <p class="brand-tag">Luxury · 3/5 minimal</p>
+            </div>
+          </button>
+
+          <button class="brand-card" data-brand="Saint Laurent">
+            <div class="brand-thumb">
+              <img src="assets/saint-laurent.png" alt="Saint Laurent logo" />
+            </div>
+            <div class="brand-meta">
+              <p class="brand-name">Saint Laurent</p>
+              <p class="brand-tag">Luxury · 4/5 minimal</p>
+            </div>
+          </button>
+
+          <button class="brand-card" data-brand="Bottega Veneta">
+            <div class="brand-thumb">
+              <img src="assets/bottega-veneta.png" alt="Bottega Veneta logo" />
+            </div>
+            <div class="brand-meta">
+              <p class="brand-name">Bottega Veneta</p>
+              <p class="brand-tag">Luxury · 4/5 minimal</p>
+            </div>
+          </button>
+
+          <button class="brand-card" data-brand="Fendi">
+            <div class="brand-thumb">
+              <img src="assets/fendi.png" alt="Fendi logo" />
+            </div>
+            <div class="brand-meta">
+              <p class="brand-name">Fendi</p>
+              <p class="brand-tag">Luxury · 4/5 minimal</p>
+            </div>
+          </button>
+
+          <button class="brand-card" data-brand="Valentino">
+            <div class="brand-thumb">
+              <img src="assets/valentino.png" alt="Valentino logo" />
+            </div>
+            <div class="brand-meta">
+              <p class="brand-name">Valentino</p>
+              <p class="brand-tag">Luxury · 3/5 minimal</p>
+            </div>
+          </button>
+
+          <button class="brand-card" data-brand="Versace">
+            <div class="brand-thumb">
+              <img src="assets/versace.png" alt="Versace logo" />
+            </div>
+            <div class="brand-meta">
+              <p class="brand-name">Versace</p>
+              <p class="brand-tag">Luxury · 3/5 minimal</p>
+            </div>
+          </button>
+
+          <button class="brand-card" data-brand="Celine">
+            <div class="brand-thumb">
+              <img src="assets/celine.png" alt="Celine logo" />
+            </div>
+            <div class="brand-meta">
+              <p class="brand-name">Celine</p>
+              <p class="brand-tag">Luxury · 5/5 minimal</p>
+            </div>
+          </button>
+
+          <button class="brand-card" data-brand="Givenchy">
+            <div class="brand-thumb">
+              <img src="assets/givenchy.png" alt="Givenchy logo" />
+            </div>
+            <div class="brand-meta">
+              <p class="brand-name">Givenchy</p>
+              <p class="brand-tag">Luxury · 4/5 minimal</p>
+            </div>
+          </button>
+
+          <button class="brand-card" data-brand="Moncler">
+            <div class="brand-thumb">
+              <img src="assets/moncler.png" alt="Moncler logo" />
+            </div>
+            <div class="brand-meta">
+              <p class="brand-name">Moncler</p>
+              <p class="brand-tag">Luxury · 4/5 minimal</p>
+            </div>
+          </button>
+
+          <button class="brand-card" data-brand="Burberry">
+            <div class="brand-thumb">
+              <img src="assets/burberry.png" alt="Burberry logo" />
+            </div>
+            <div class="brand-meta">
+              <p class="brand-name">Burberry</p>
+              <p class="brand-tag">Luxury · 4/5 minimal</p>
+            </div>
+          </button>
+
+          <button class="brand-card" data-brand="Nike">
+            <div class="brand-thumb">
+              <img src="assets/nike.png" alt="Nike logo" />
+            </div>
+            <div class="brand-meta">
+              <p class="brand-name">Nike</p>
+              <p class="brand-tag">Mass premium · 2/5 minimal</p>
+            </div>
+          </button>
+
+          <button class="brand-card" data-brand="Adidas">
+            <div class="brand-thumb">
+              <img src="assets/adidas.png" alt="Adidas logo" />
+            </div>
+            <div class="brand-meta">
+              <p class="brand-name">Adidas</p>
+              <p class="brand-tag">Mass premium · 2/5 minimal</p>
+            </div>
+          </button>
+
+          <button class="brand-card" data-brand="Lululemon">
+            <div class="brand-thumb">
+              <img src="assets/lululemon.png" alt="Lululemon logo" />
+            </div>
+            <div class="brand-meta">
+              <p class="brand-name">Lululemon</p>
+              <p class="brand-tag">Premium · 3/5 minimal</p>
+            </div>
+          </button>
+
+          <button class="brand-card" data-brand="Uniqlo">
+            <div class="brand-thumb">
+              <img src="assets/uniqlo.png" alt="Uniqlo logo" />
+            </div>
+            <div class="brand-meta">
+              <p class="brand-name">Uniqlo</p>
+              <p class="brand-tag">Premium · 3/5 minimal</p>
+            </div>
+          </button>
+
+          <button class="brand-card" data-brand="Zara">
+            <div class="brand-thumb">
+              <img src="assets/zara.png" alt="Zara logo" />
+            </div>
+            <div class="brand-meta">
+              <p class="brand-name">Zara</p>
+              <p class="brand-tag">Fast fashion · 4/5 minimal</p>
+            </div>
+          </button>
+
+          <button class="brand-card" data-brand="H&M">
+            <div class="brand-thumb">
+              <img src="assets/hm.png" alt="H and M logo" />
+            </div>
+            <div class="brand-meta">
+              <p class="brand-name">H&amp;M</p>
+              <p class="brand-tag">Fast fashion · 3/5 minimal</p>
+            </div>
+          </button>
+
+          <button class="brand-card" data-brand="Shein">
+            <div class="brand-thumb">
+              <img src="assets/shein.png" alt="Shein logo" />
+            </div>
+            <div class="brand-meta">
+              <p class="brand-name">Shein</p>
+              <p class="brand-tag">Fast fashion · 1/5 minimal</p>
+            </div>
+          </button>
+
+          <button class="brand-card" data-brand="Sephora">
+            <div class="brand-thumb">
+              <img src="assets/sephora.png" alt="Sephora logo" />
+            </div>
+            <div class="brand-meta">
+              <p class="brand-name">Sephora</p>
+              <p class="brand-tag">Beauty retail · 3/5 minimal</p>
+            </div>
+          </button>
+        </div>
+
+        <p class="brand-selection">
+          Tip: Click any brand above to highlight it across every chart.
+        </p>
+      </div>
+    </section>
+
+    <!-- CHARTS – SCATTER -------------------------------------------------->
+    <section id="page-4" class="page page--charts">
+      <div class="page__inner">
+        <header class="section-header section-header--charts">
+          <div>
+            <h2 class="section-title">
+              Minimalism vs. revenue (logo scatter)
+            </h2>
+            <p class="section-kicker">
+              Each logo is a brand. Left/right = minimalism. Up/down = annual
+              revenue (billions, local currency).
+            </p>
+          </div>
+
+          <div class="controls">
+            <label class="field">
+              <span class="field__label">Select year</span>
+              <select id="yearSelect" class="field__select"></select>
+            </label>
+          </div>
+        </header>
+
+        <div class="chart-row">
+          <div class="chart-card">
+            <div class="chart-card__header">
+              <h3 class="chart-card__title">
+                Revenue vs minimalism
+                <span id="scatterYearLabel" class="chart-card__pill">
+                  2025
+                </span>
+              </h3>
+              <p class="chart-card__hint">
+                Hover logos for exact revenue. Minimalism 1 = maximalist /
+                noisy; 5 = ultra-minimal.
+              </p>
+            </div>
+
+            <div class="scatter-wrapper">
+              <div class="scatter-plot" id="scatterPlot">
+                <div class="scatter-axis scatter-axis--x">
+                  Minimalism score →
+                </div>
+                <div class="scatter-axis scatter-axis--y">
+                  Revenue (Bn, local currency)
+                </div>
+                <div class="scatter-grid scatter-grid--h"></div>
+                <div class="scatter-grid scatter-grid--v"></div>
+              </div>
+            </div>
+
+            <p class="scatter-footnote">
+              Ultra-luxury brands cluster in the upper-right: high revenue and
+              fairly minimal sites. Fast fashion giants like Shein and Zara
+              live in a different aesthetic universe but can still out-earn
+              heritage houses.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CHARTS – BAR + LINE ---------------------------------------------->
+    <section id="page-5" class="page page--charts">
+      <div class="page__inner">
+        <header class="section-header section-header--charts">
+          <div>
+            <h2 class="section-title">Who actually makes the money?</h2>
+            <p class="section-kicker">
+              A bar chart of revenue by brand for the selected year, plus a
+              line chart showing one brand’s growth from 2015 → 2025.
+            </p>
+          </div>
+        </header>
+
+        <div class="chart-row chart-row--stacked">
+          <!-- Bar chart --------------------------------------------------->
+          <div class="chart-card chart-card--bar">
+            <div class="chart-card__header">
+              <h3 class="chart-card__title">
+                Revenue by brand
+                <span id="barYearLabel" class="chart-card__pill">2025</span>
+              </h3>
+              <p class="chart-card__hint">
+                Bars are sorted tallest to shortest. Click any bar to focus
+                that brand in the line chart.
+              </p>
+            </div>
+
+            <div class="bar-chart" id="barChart"></div>
+            <div class="bar-chart__axis">
+              <span>Lower revenue</span>
+              <span>Higher revenue</span>
+            </div>
+          </div>
+
+          <!-- Line chart -------------------------------------------------->
+          <div class="chart-card chart-card--line">
+            <div class="chart-card__header chart-card__header--line">
+              <div>
+                <h3 class="chart-card__title">
+                  Brand revenue over time
+                </h3>
+                <p class="chart-card__hint">
+                  Compare 2015, 2020, and 2025. Minimalism is constant for
+                  each brand; only revenue moves.
+                </p>
+              </div>
+
+              <label class="field field--inline">
+                <span class="field__label">Brand</span>
+                <select id="lineBrandSelect" class="field__select"></select>
+              </label>
+            </div>
+
+            <div class="line-chart">
+              <svg id="lineChartSvg" viewBox="0 0 100 60" preserveAspectRatio="none"></svg>
+            </div>
+
+            <ul class="line-legend">
+              <li><span class="line-legend__swatch line-legend__swatch--brand"></span> Selected brand</li>
+              <li><span class="line-legend__swatch line-legend__swatch--avg"></span> Average across all brands</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- WRAP ------------------------------------------------------------->
+    <section id="page-6" class="page page--wrap">
+      <div class="page__inner">
+        <div class="wrap-grid">
+          <div class="wrap-block">
+            <h2 class="section-title">So… does minimalism “win”?</h2>
+            <p>
+              Not exactly. The cleanest sites (Celine, Hermès, Chanel) tend to
+              live in ultra-luxury, where revenue is high but volume is low.
+              Meanwhile, maximalist platforms like Shein and H&amp;M are less
+              minimal but move insane product at scale.
+            </p>
+            <p>
+              Minimalism seems to correlate more with
+              <strong>positioning</strong> (luxury, premium, “quiet” brands)
+              than with pure revenue. What the charts really show is that
+              <strong>there’s no single aesthetic path to growth</strong>—but
+              the visual language of a brand still sends a strong signal about
+              who it wants as a customer.
+            </p>
+          </div>
+
+          <div class="wrap-block wrap-block--note">
+            <h3 class="wrap-note__title">Reading notes</h3>
+            <p>
+              Numbers are simplified / smoothed to make patterns readable, not
+              to predict stock prices. Think of this as a visual essay about
+              taste, money, and the way fashion brands choreograph attention
+              on-screen.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Built for class · Dataset: 24 fashion &amp; beauty brands · 2015–2025.</p>
+  </footer>
+
+  <script src="script.js" defer></script>
+</body>
+</html>

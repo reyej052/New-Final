@@ -1,0 +1,625 @@
+﻿Brand,Segment,Year,Minimalism_Score,Monthly_Visits_M,Pages_Per_Visit,Avg_Duration_sec,Bounce_Rate_pct,Annual_Revenue_Bn,Revenue_Currency,
+Chanel,Ultra-luxury,2000,5,12.27,2.45,3.27,205,46.29,2.8,USD
+Chanel,Ultra-luxury,2001,5,12.27,2.85,3.33,210,46.12,3.44,USD
+Chanel,Ultra-luxury,2002,5,12.27,3.24,3.38,216,45.95,4.08,USD
+Chanel,Ultra-luxury,2003,5,12.27,3.63,3.44,221,45.78,4.71,USD
+Chanel,Ultra-luxury,2004,5,12.27,4.02,3.49,227,45.61,5.35,USD
+Chanel,Ultra-luxury,2005,5,12.27,4.42,3.55,232,45.45,5.98,USD
+Chanel,Ultra-luxury,2006,5,12.27,4.81,3.61,238,45.28,6.62,USD
+Chanel,Ultra-luxury,2007,5,12.27,5.2,3.66,243,45.11,7.26,USD
+Chanel,Ultra-luxury,2008,5,12.27,5.6,3.72,248,44.94,7.89,USD
+Chanel,Ultra-luxury,2009,5,12.27,5.99,3.77,254,44.77,8.53,USD
+Chanel,Ultra-luxury,2010,5,12.27,6.38,3.83,259,44.6,9.16,USD
+Chanel,Ultra-luxury,2011,5,12.27,6.77,3.89,265,44.44,9.8,USD
+Chanel,Ultra-luxury,2012,5,12.27,7.17,3.94,270,44.27,10.43,USD
+Chanel,Ultra-luxury,2013,5,12.27,7.56,4,276,44.1,11.07,USD
+Chanel,Ultra-luxury,2014,5,12.27,7.95,4.05,281,43.93,11.71,USD
+Chanel,Ultra-luxury,2015,5,12.27,8.34,4.11,287,43.76,12.34,USD
+Chanel,Ultra-luxury,2016,5,12.27,8.74,4.17,292,43.59,12.98,USD
+Chanel,Ultra-luxury,2017,5,12.27,9.13,4.22,298,43.43,13.61,USD
+Chanel,Ultra-luxury,2018,5,12.27,9.52,4.28,303,43.26,14.25,USD
+Chanel,Ultra-luxury,2019,5,12.27,9.91,4.33,309,43.09,14.89,USD
+Chanel,Ultra-luxury,2020,5,12.27,10.31,4.39,314,42.92,15.52,USD
+Chanel,Ultra-luxury,2021,5,12.27,10.7,4.45,320,42.75,16.16,USD
+Chanel,Ultra-luxury,2022,5,12.27,11.09,4.5,325,42.58,16.79,USD
+Chanel,Ultra-luxury,2023,5,12.27,11.48,4.56,331,42.42,17.43,USD
+Chanel,Ultra-luxury,2024,5,12.27,11.88,4.61,336,42.25,18.06,USD
+Chanel,Ultra-luxury,2025,5,12.27,12.27,4.67,342,42.08,18.7,USD
+Hermès,Ultra-luxury,2000,5,8.7,1.74,2.94,69,51.05,2.28,EUR
+Hermès,Ultra-luxury,2001,5,8.7,2.02,2.99,70,50.87,2.8,EUR
+Hermès,Ultra-luxury,2002,5,8.7,2.3,3.04,72,50.68,3.31,EUR
+Hermès,Ultra-luxury,2003,5,8.7,2.58,3.09,74,50.49,3.83,EUR
+Hermès,Ultra-luxury,2004,5,8.7,2.85,3.14,76,50.31,4.35,EUR
+Hermès,Ultra-luxury,2005,5,8.7,3.13,3.19,78,50.12,4.86,EUR
+Hermès,Ultra-luxury,2006,5,8.7,3.41,3.24,80,49.94,5.38,EUR
+Hermès,Ultra-luxury,2007,5,8.7,3.69,3.29,81,49.75,5.9,EUR
+Hermès,Ultra-luxury,2008,5,8.7,3.97,3.34,83,49.57,6.41,EUR
+Hermès,Ultra-luxury,2009,5,8.7,4.25,3.39,85,49.38,6.93,EUR
+Hermès,Ultra-luxury,2010,5,8.7,4.52,3.44,87,49.19,7.45,EUR
+Hermès,Ultra-luxury,2011,5,8.7,4.8,3.49,89,49.01,7.96,EUR
+Hermès,Ultra-luxury,2012,5,8.7,5.08,3.54,91,48.82,8.48,EUR
+Hermès,Ultra-luxury,2013,5,8.7,5.36,3.6,92,48.64,9,EUR
+Hermès,Ultra-luxury,2014,5,8.7,5.64,3.65,94,48.45,9.52,EUR
+Hermès,Ultra-luxury,2015,5,8.7,5.92,3.7,96,48.27,10.03,EUR
+Hermès,Ultra-luxury,2016,5,8.7,6.19,3.75,98,48.08,10.55,EUR
+Hermès,Ultra-luxury,2017,5,8.7,6.47,3.8,100,47.9,11.07,EUR
+Hermès,Ultra-luxury,2018,5,8.7,6.75,3.85,102,47.71,11.58,EUR
+Hermès,Ultra-luxury,2019,5,8.7,7.03,3.9,103,47.52,12.1,EUR
+Hermès,Ultra-luxury,2020,5,8.7,7.31,3.95,105,47.34,12.62,EUR
+Hermès,Ultra-luxury,2021,5,8.7,7.59,4,107,47.15,13.13,EUR
+Hermès,Ultra-luxury,2022,5,8.7,7.86,4.05,109,46.97,13.65,EUR
+Hermès,Ultra-luxury,2023,5,8.7,8.14,4.1,111,46.78,14.17,EUR
+Hermès,Ultra-luxury,2024,5,8.7,8.42,4.15,113,46.6,14.68,EUR
+Hermès,Ultra-luxury,2025,5,8.7,8.7,4.2,115,46.41,15.2,EUR
+Louis Vuitton,Ultra-luxury,2000,4,16.04,3.21,3.16,189,50.26,3.24,USD
+Louis Vuitton,Ultra-luxury,2001,4,16.04,3.72,3.21,194,50.08,3.97,USD
+Louis Vuitton,Ultra-luxury,2002,4,16.04,4.23,3.27,199,49.89,4.71,USD
+Louis Vuitton,Ultra-luxury,2003,4,16.04,4.75,3.32,204,49.71,5.44,USD
+Louis Vuitton,Ultra-luxury,2004,4,16.04,5.26,3.37,209,49.53,6.18,USD
+Louis Vuitton,Ultra-luxury,2005,4,16.04,5.77,3.43,214,49.35,6.91,USD
+Louis Vuitton,Ultra-luxury,2006,4,16.04,6.29,3.48,219,49.16,7.65,USD
+Louis Vuitton,Ultra-luxury,2007,4,16.04,6.8,3.54,224,48.98,8.38,USD
+Louis Vuitton,Ultra-luxury,2008,4,16.04,7.31,3.59,229,48.8,9.12,USD
+Louis Vuitton,Ultra-luxury,2009,4,16.04,7.83,3.64,234,48.61,9.85,USD
+Louis Vuitton,Ultra-luxury,2010,4,16.04,8.34,3.7,239,48.43,10.58,USD
+Louis Vuitton,Ultra-luxury,2011,4,16.04,8.85,3.75,244,48.25,11.32,USD
+Louis Vuitton,Ultra-luxury,2012,4,16.04,9.37,3.81,249,48.07,12.05,USD
+Louis Vuitton,Ultra-luxury,2013,4,16.04,9.88,3.86,254,47.88,12.79,USD
+Louis Vuitton,Ultra-luxury,2014,4,16.04,10.39,3.91,259,47.7,13.52,USD
+Louis Vuitton,Ultra-luxury,2015,4,16.04,10.91,3.97,264,47.52,14.26,USD
+Louis Vuitton,Ultra-luxury,2016,4,16.04,11.42,4.02,269,47.33,14.99,USD
+Louis Vuitton,Ultra-luxury,2017,4,16.04,11.93,4.08,274,47.15,15.72,USD
+Louis Vuitton,Ultra-luxury,2018,4,16.04,12.45,4.13,279,46.97,16.46,USD
+Louis Vuitton,Ultra-luxury,2019,4,16.04,12.96,4.19,284,46.79,17.19,USD
+Louis Vuitton,Ultra-luxury,2020,4,16.04,13.47,4.24,289,46.6,17.93,USD
+Louis Vuitton,Ultra-luxury,2021,4,16.04,13.99,4.29,294,46.42,18.66,USD
+Louis Vuitton,Ultra-luxury,2022,4,16.04,14.5,4.35,299,46.24,19.4,USD
+Louis Vuitton,Ultra-luxury,2023,4,16.04,15.01,4.4,304,46.06,20.13,USD
+Louis Vuitton,Ultra-luxury,2024,4,16.04,15.53,4.46,309,45.87,20.87,USD
+Louis Vuitton,Ultra-luxury,2025,4,16.04,16.04,4.51,315,45.69,21.6,USD
+Dior,Ultra-luxury,2000,4,15.18,3.04,3.1,236,50.06,1.44,EUR
+Dior,Ultra-luxury,2001,4,15.18,3.52,3.15,242,49.88,1.77,EUR
+Dior,Ultra-luxury,2002,4,15.18,4.01,3.21,249,49.7,2.09,EUR
+Dior,Ultra-luxury,2003,4,15.18,4.49,3.26,255,49.51,2.42,EUR
+Dior,Ultra-luxury,2004,4,15.18,4.98,3.31,261,49.33,2.75,EUR
+Dior,Ultra-luxury,2005,4,15.18,5.46,3.37,267,49.15,3.07,EUR
+Dior,Ultra-luxury,2006,4,15.18,5.95,3.42,274,48.97,3.4,EUR
+Dior,Ultra-luxury,2007,4,15.18,6.44,3.47,280,48.79,3.72,EUR
+Dior,Ultra-luxury,2008,4,15.18,6.92,3.53,286,48.6,4.05,EUR
+Dior,Ultra-luxury,2009,4,15.18,7.41,3.58,293,48.42,4.38,EUR
+Dior,Ultra-luxury,2010,4,15.18,7.89,3.63,299,48.24,4.7,EUR
+Dior,Ultra-luxury,2011,4,15.18,8.38,3.69,305,48.06,5.03,EUR
+Dior,Ultra-luxury,2012,4,15.18,8.87,3.74,312,47.88,5.36,EUR
+Dior,Ultra-luxury,2013,4,15.18,9.35,3.79,318,47.69,5.68,EUR
+Dior,Ultra-luxury,2014,4,15.18,9.84,3.85,324,47.51,6.01,EUR
+Dior,Ultra-luxury,2015,4,15.18,10.32,3.9,330,47.33,6.34,EUR
+Dior,Ultra-luxury,2016,4,15.18,10.81,3.95,337,47.15,6.66,EUR
+Dior,Ultra-luxury,2017,4,15.18,11.29,4,343,46.97,6.99,EUR
+Dior,Ultra-luxury,2018,4,15.18,11.78,4.06,349,46.78,7.32,EUR
+Dior,Ultra-luxury,2019,4,15.18,12.27,4.11,356,46.6,7.64,EUR
+Dior,Ultra-luxury,2020,4,15.18,12.75,4.16,362,46.42,7.97,EUR
+Dior,Ultra-luxury,2021,4,15.18,13.24,4.22,368,46.24,8.29,EUR
+Dior,Ultra-luxury,2022,4,15.18,13.72,4.27,375,46.06,8.62,EUR
+Dior,Ultra-luxury,2023,4,15.18,14.21,4.32,381,45.87,8.95,EUR
+Dior,Ultra-luxury,2024,4,15.18,14.69,4.38,387,45.69,9.27,EUR
+Dior,Ultra-luxury,2025,4,15.18,15.18,4.43,394,45.51,9.6,EUR
+Gucci,Luxury,2000,4,6.82,1.36,3.43,201,45.25,1.16,EUR
+Gucci,Luxury,2001,4,6.82,1.58,3.49,206,45.09,1.42,EUR
+Gucci,Luxury,2002,4,6.82,1.8,3.55,212,44.92,1.68,EUR
+Gucci,Luxury,2003,4,6.82,2.02,3.61,217,44.76,1.94,EUR
+Gucci,Luxury,2004,4,6.82,2.24,3.67,223,44.6,2.2,EUR
+Gucci,Luxury,2005,4,6.82,2.46,3.72,228,44.43,2.46,EUR
+Gucci,Luxury,2006,4,6.82,2.67,3.78,233,44.27,2.73,EUR
+Gucci,Luxury,2007,4,6.82,2.89,3.84,239,44.1,2.99,EUR
+Gucci,Luxury,2008,4,6.82,3.11,3.9,244,43.94,3.25,EUR
+Gucci,Luxury,2009,4,6.82,3.33,3.96,249,43.77,3.51,EUR
+Gucci,Luxury,2010,4,6.82,3.55,4.02,255,43.61,3.77,EUR
+Gucci,Luxury,2011,4,6.82,3.76,4.08,260,43.44,4.03,EUR
+Gucci,Luxury,2012,4,6.82,3.98,4.14,266,43.28,4.3,EUR
+Gucci,Luxury,2013,4,6.82,4.2,4.19,271,43.11,4.56,EUR
+Gucci,Luxury,2014,4,6.82,4.42,4.25,276,42.95,4.82,EUR
+Gucci,Luxury,2015,4,6.82,4.64,4.31,282,42.79,5.08,EUR
+Gucci,Luxury,2016,4,6.82,4.86,4.37,287,42.62,5.34,EUR
+Gucci,Luxury,2017,4,6.82,5.07,4.43,292,42.46,5.61,EUR
+Gucci,Luxury,2018,4,6.82,5.29,4.49,298,42.29,5.87,EUR
+Gucci,Luxury,2019,4,6.82,5.51,4.55,303,42.13,6.13,EUR
+Gucci,Luxury,2020,4,6.82,5.73,4.61,309,41.96,6.39,EUR
+Gucci,Luxury,2021,4,6.82,5.95,4.66,314,41.8,6.65,EUR
+Gucci,Luxury,2022,4,6.82,6.17,4.72,319,41.63,6.91,EUR
+Gucci,Luxury,2023,4,6.82,6.38,4.78,325,41.47,7.18,EUR
+Gucci,Luxury,2024,4,6.82,6.6,4.84,330,41.3,7.44,EUR
+Gucci,Luxury,2025,4,6.82,6.82,4.9,336,41.14,7.7,EUR
+Prada,Luxury,2000,4,6.37,1.27,2.67,168,55.97,0.7,EUR
+Prada,Luxury,2001,4,6.37,1.48,2.71,172,55.76,0.86,EUR
+Prada,Luxury,2002,4,6.37,1.68,2.76,176,55.56,1.02,EUR
+Prada,Luxury,2003,4,6.37,1.89,2.8,181,55.36,1.18,EUR
+Prada,Luxury,2004,4,6.37,2.09,2.85,185,55.15,1.34,EUR
+Prada,Luxury,2005,4,6.37,2.29,2.9,190,54.95,1.5,EUR
+Prada,Luxury,2006,4,6.37,2.5,2.94,194,54.75,1.66,EUR
+Prada,Luxury,2007,4,6.37,2.7,2.99,199,54.54,1.82,EUR
+Prada,Luxury,2008,4,6.37,2.9,3.03,203,54.34,1.98,EUR
+Prada,Luxury,2009,4,6.37,3.11,3.08,208,54.14,2.14,EUR
+Prada,Luxury,2010,4,6.37,3.31,3.12,212,53.93,2.3,EUR
+Prada,Luxury,2011,4,6.37,3.52,3.17,217,53.73,2.46,EUR
+Prada,Luxury,2012,4,6.37,3.72,3.22,221,53.53,2.62,EUR
+Prada,Luxury,2013,4,6.37,3.92,3.26,226,53.32,2.78,EUR
+Prada,Luxury,2014,4,6.37,4.13,3.31,230,53.12,2.94,EUR
+Prada,Luxury,2015,4,6.37,4.33,3.35,235,52.92,3.1,EUR
+Prada,Luxury,2016,4,6.37,4.54,3.4,239,52.71,3.26,EUR
+Prada,Luxury,2017,4,6.37,4.74,3.44,244,52.51,3.42,EUR
+Prada,Luxury,2018,4,6.37,4.94,3.49,248,52.3,3.58,EUR
+Prada,Luxury,2019,4,6.37,5.15,3.54,253,52.1,3.74,EUR
+Prada,Luxury,2020,4,6.37,5.35,3.58,257,51.9,3.9,EUR
+Prada,Luxury,2021,4,6.37,5.55,3.63,262,51.69,4.06,EUR
+Prada,Luxury,2022,4,6.37,5.76,3.67,266,51.49,4.22,EUR
+Prada,Luxury,2023,4,6.37,5.96,3.72,271,51.29,4.38,EUR
+Prada,Luxury,2024,4,6.37,6.17,3.76,275,51.08,4.54,EUR
+Prada,Luxury,2025,4,6.37,6.37,3.81,280,50.88,4.7,EUR
+Balenciaga,Luxury,2000,3,2.65,0.53,2.77,168,49.49,0.34,EUR
+Balenciaga,Luxury,2001,3,2.65,0.61,2.82,172,49.31,0.42,EUR
+Balenciaga,Luxury,2002,3,2.65,0.7,2.87,176,49.13,0.5,EUR
+Balenciaga,Luxury,2003,3,2.65,0.78,2.91,181,48.95,0.58,EUR
+Balenciaga,Luxury,2004,3,2.65,0.87,2.96,185,48.77,0.66,EUR
+Balenciaga,Luxury,2005,3,2.65,0.95,3.01,190,48.59,0.74,EUR
+Balenciaga,Luxury,2006,3,2.65,1.04,3.06,194,48.41,0.81,EUR
+Balenciaga,Luxury,2007,3,2.65,1.12,3.1,199,48.23,0.89,EUR
+Balenciaga,Luxury,2008,3,2.65,1.21,3.15,203,48.05,0.97,EUR
+Balenciaga,Luxury,2009,3,2.65,1.29,3.2,208,47.87,1.05,EUR
+Balenciaga,Luxury,2010,3,2.65,1.38,3.25,212,47.69,1.13,EUR
+Balenciaga,Luxury,2011,3,2.65,1.46,3.29,217,47.51,1.21,EUR
+Balenciaga,Luxury,2012,3,2.65,1.55,3.34,221,47.33,1.28,EUR
+Balenciaga,Luxury,2013,3,2.65,1.63,3.39,226,47.15,1.36,EUR
+Balenciaga,Luxury,2014,3,2.65,1.72,3.44,230,46.97,1.44,EUR
+Balenciaga,Luxury,2015,3,2.65,1.8,3.48,235,46.79,1.52,EUR
+Balenciaga,Luxury,2016,3,2.65,1.89,3.53,239,46.61,1.6,EUR
+Balenciaga,Luxury,2017,3,2.65,1.97,3.58,244,46.43,1.67,EUR
+Balenciaga,Luxury,2018,3,2.65,2.06,3.63,248,46.25,1.75,EUR
+Balenciaga,Luxury,2019,3,2.65,2.14,3.67,253,46.07,1.83,EUR
+Balenciaga,Luxury,2020,3,2.65,2.23,3.72,257,45.89,1.91,EUR
+Balenciaga,Luxury,2021,3,2.65,2.31,3.77,262,45.71,1.99,EUR
+Balenciaga,Luxury,2022,3,2.65,2.4,3.82,266,45.53,2.07,EUR
+Balenciaga,Luxury,2023,3,2.65,2.48,3.86,271,45.35,2.14,EUR
+Balenciaga,Luxury,2024,3,2.65,2.57,3.91,275,45.17,2.22,EUR
+Balenciaga,Luxury,2025,3,2.65,2.65,3.96,280,44.99,2.3,EUR
+Saint Laurent,Luxury,2000,4,4.5,0.9,3.14,189,54.89,0.43,EUR
+Saint Laurent,Luxury,2001,4,4.5,1.04,3.19,194,54.69,0.53,EUR
+Saint Laurent,Luxury,2002,4,4.5,1.19,3.24,199,54.49,0.63,EUR
+Saint Laurent,Luxury,2003,4,4.5,1.33,3.3,204,54.29,0.73,EUR
+Saint Laurent,Luxury,2004,4,4.5,1.48,3.35,209,54.09,0.83,EUR
+Saint Laurent,Luxury,2005,4,4.5,1.62,3.4,214,53.89,0.93,EUR
+Saint Laurent,Luxury,2006,4,4.5,1.76,3.46,219,53.69,1.03,EUR
+Saint Laurent,Luxury,2007,4,4.5,1.91,3.51,224,53.49,1.13,EUR
+Saint Laurent,Luxury,2008,4,4.5,2.05,3.57,230,53.29,1.22,EUR
+Saint Laurent,Luxury,2009,4,4.5,2.2,3.62,235,53.09,1.32,EUR
+Saint Laurent,Luxury,2010,4,4.5,2.34,3.67,240,52.89,1.42,EUR
+Saint Laurent,Luxury,2011,4,4.5,2.48,3.73,245,52.69,1.52,EUR
+Saint Laurent,Luxury,2012,4,4.5,2.63,3.78,250,52.49,1.62,EUR
+Saint Laurent,Luxury,2013,4,4.5,2.77,3.83,255,52.3,1.72,EUR
+Saint Laurent,Luxury,2014,4,4.5,2.92,3.89,260,52.1,1.82,EUR
+Saint Laurent,Luxury,2015,4,4.5,3.06,3.94,265,51.9,1.91,EUR
+Saint Laurent,Luxury,2016,4,4.5,3.2,4,270,51.7,2.01,EUR
+Saint Laurent,Luxury,2017,4,4.5,3.35,4.05,275,51.5,2.11,EUR
+Saint Laurent,Luxury,2018,4,4.5,3.49,4.1,280,51.3,2.21,EUR
+Saint Laurent,Luxury,2019,4,4.5,3.64,4.16,285,51.1,2.31,EUR
+Saint Laurent,Luxury,2020,4,4.5,3.78,4.21,290,50.9,2.41,EUR
+Saint Laurent,Luxury,2021,4,4.5,3.92,4.26,295,50.7,2.51,EUR
+Saint Laurent,Luxury,2022,4,4.5,4.07,4.32,300,50.5,2.6,EUR
+Saint Laurent,Luxury,2023,4,4.5,4.21,4.37,305,50.3,2.7,EUR
+Saint Laurent,Luxury,2024,4,4.5,4.36,4.43,310,50.1,2.8,EUR
+Saint Laurent,Luxury,2025,4,4.5,4.5,4.48,316,49.9,2.9,EUR
+Bottega Veneta,Luxury,2000,4,3.63,0.73,2.27,178,62.45,0.26,EUR
+Bottega Veneta,Luxury,2001,4,3.63,0.84,2.31,182,62.22,0.31,EUR
+Bottega Veneta,Luxury,2002,4,3.63,0.96,2.35,187,61.99,0.37,EUR
+Bottega Veneta,Luxury,2003,4,3.63,1.07,2.38,192,61.77,0.43,EUR
+Bottega Veneta,Luxury,2004,4,3.63,1.19,2.42,197,61.54,0.49,EUR
+Bottega Veneta,Luxury,2005,4,3.63,1.31,2.46,201,61.31,0.54,EUR
+Bottega Veneta,Luxury,2006,4,3.63,1.42,2.5,206,61.08,0.6,EUR
+Bottega Veneta,Luxury,2007,4,3.63,1.54,2.54,211,60.86,0.66,EUR
+Bottega Veneta,Luxury,2008,4,3.63,1.66,2.58,216,60.63,0.72,EUR
+Bottega Veneta,Luxury,2009,4,3.63,1.77,2.62,220,60.4,0.78,EUR
+Bottega Veneta,Luxury,2010,4,3.63,1.89,2.66,225,60.18,0.83,EUR
+Bottega Veneta,Luxury,2011,4,3.63,2,2.7,230,59.95,0.89,EUR
+Bottega Veneta,Luxury,2012,4,3.63,2.12,2.73,235,59.72,0.95,EUR
+Bottega Veneta,Luxury,2013,4,3.63,2.24,2.77,239,59.49,1.01,EUR
+Bottega Veneta,Luxury,2014,4,3.63,2.35,2.81,244,59.27,1.06,EUR
+Bottega Veneta,Luxury,2015,4,3.63,2.47,2.85,249,59.04,1.12,EUR
+Bottega Veneta,Luxury,2016,4,3.63,2.58,2.89,254,58.81,1.18,EUR
+Bottega Veneta,Luxury,2017,4,3.63,2.7,2.93,258,58.59,1.24,EUR
+Bottega Veneta,Luxury,2018,4,3.63,2.82,2.97,263,58.36,1.3,EUR
+Bottega Veneta,Luxury,2019,4,3.63,2.93,3.01,268,58.13,1.35,EUR
+Bottega Veneta,Luxury,2020,4,3.63,3.05,3.05,273,57.91,1.41,EUR
+Bottega Veneta,Luxury,2021,4,3.63,3.17,3.08,277,57.68,1.47,EUR
+Bottega Veneta,Luxury,2022,4,3.63,3.28,3.12,282,57.45,1.53,EUR
+Bottega Veneta,Luxury,2023,4,3.63,3.4,3.16,287,57.22,1.58,EUR
+Bottega Veneta,Luxury,2024,4,3.63,3.51,3.2,292,57,1.64,EUR
+Bottega Veneta,Luxury,2025,4,3.63,3.63,3.24,297,56.77,1.7,EUR
+Fendi,Luxury,2000,4,2.33,0.47,4.21,262,45.01,0.22,EUR
+Fendi,Luxury,2001,4,2.33,0.54,4.28,269,44.85,0.28,EUR
+Fendi,Luxury,2002,4,2.33,0.62,4.35,276,44.68,0.33,EUR
+Fendi,Luxury,2003,4,2.33,0.69,4.42,283,44.52,0.38,EUR
+Fendi,Luxury,2004,4,2.33,0.76,4.5,290,44.36,0.43,EUR
+Fendi,Luxury,2005,4,2.33,0.84,4.57,297,44.19,0.48,EUR
+Fendi,Luxury,2006,4,2.33,0.91,4.64,304,44.03,0.53,EUR
+Fendi,Luxury,2007,4,2.33,0.99,4.71,311,43.87,0.58,EUR
+Fendi,Luxury,2008,4,2.33,1.06,4.78,318,43.7,0.63,EUR
+Fendi,Luxury,2009,4,2.33,1.14,4.86,325,43.54,0.68,EUR
+Fendi,Luxury,2010,4,2.33,1.21,4.93,332,43.38,0.73,EUR
+Fendi,Luxury,2011,4,2.33,1.29,5,339,43.21,0.79,EUR
+Fendi,Luxury,2012,4,2.33,1.36,5.07,346,43.05,0.84,EUR
+Fendi,Luxury,2013,4,2.33,1.44,5.14,353,42.88,0.89,EUR
+Fendi,Luxury,2014,4,2.33,1.51,5.22,360,42.72,0.94,EUR
+Fendi,Luxury,2015,4,2.33,1.58,5.29,367,42.56,0.99,EUR
+Fendi,Luxury,2016,4,2.33,1.66,5.36,374,42.39,1.04,EUR
+Fendi,Luxury,2017,4,2.33,1.73,5.43,381,42.23,1.09,EUR
+Fendi,Luxury,2018,4,2.33,1.81,5.51,388,42.07,1.14,EUR
+Fendi,Luxury,2019,4,2.33,1.88,5.58,395,41.9,1.19,EUR
+Fendi,Luxury,2020,4,2.33,1.96,5.65,402,41.74,1.25,EUR
+Fendi,Luxury,2021,4,2.33,2.03,5.72,409,41.57,1.3,EUR
+Fendi,Luxury,2022,4,2.33,2.11,5.79,416,41.41,1.35,EUR
+Fendi,Luxury,2023,4,2.33,2.18,5.87,423,41.25,1.4,EUR
+Fendi,Luxury,2024,4,2.33,2.26,5.94,430,41.08,1.45,EUR
+Fendi,Luxury,2025,4,2.33,2.33,6.01,438,40.92,1.5,EUR
+Valentino,Luxury,2000,3,1.3,0.26,1.99,40,52.43,0.18,EUR
+Valentino,Luxury,2001,3,1.3,0.3,2.03,41,52.24,0.22,EUR
+Valentino,Luxury,2002,3,1.3,0.34,2.06,42,52.04,0.26,EUR
+Valentino,Luxury,2003,3,1.3,0.38,2.1,43,51.85,0.3,EUR
+Valentino,Luxury,2004,3,1.3,0.43,2.13,44,51.66,0.34,EUR
+Valentino,Luxury,2005,3,1.3,0.47,2.17,45,51.47,0.38,EUR
+Valentino,Luxury,2006,3,1.3,0.51,2.2,46,51.28,0.42,EUR
+Valentino,Luxury,2007,3,1.3,0.55,2.23,47,51.09,0.47,EUR
+Valentino,Luxury,2008,3,1.3,0.59,2.27,48,50.9,0.51,EUR
+Valentino,Luxury,2009,3,1.3,0.63,2.3,49,50.71,0.55,EUR
+Valentino,Luxury,2010,3,1.3,0.68,2.34,50,50.52,0.59,EUR
+Valentino,Luxury,2011,3,1.3,0.72,2.37,51,50.33,0.63,EUR
+Valentino,Luxury,2012,3,1.3,0.76,2.41,53,50.14,0.67,EUR
+Valentino,Luxury,2013,3,1.3,0.8,2.44,54,49.95,0.71,EUR
+Valentino,Luxury,2014,3,1.3,0.84,2.47,55,49.76,0.75,EUR
+Valentino,Luxury,2015,3,1.3,0.88,2.51,56,49.57,0.79,EUR
+Valentino,Luxury,2016,3,1.3,0.93,2.54,57,49.38,0.83,EUR
+Valentino,Luxury,2017,3,1.3,0.97,2.58,58,49.19,0.87,EUR
+Valentino,Luxury,2018,3,1.3,1.01,2.61,59,48.99,0.91,EUR
+Valentino,Luxury,2019,3,1.3,1.05,2.64,60,48.8,0.96,EUR
+Valentino,Luxury,2020,3,1.3,1.09,2.68,61,48.61,1,EUR
+Valentino,Luxury,2021,3,1.3,1.13,2.71,62,48.42,1.04,EUR
+Valentino,Luxury,2022,3,1.3,1.18,2.75,63,48.23,1.08,EUR
+Valentino,Luxury,2023,3,1.3,1.22,2.78,64,48.04,1.12,EUR
+Valentino,Luxury,2024,3,1.3,1.26,2.82,65,47.85,1.16,EUR
+Valentino,Luxury,2025,3,1.3,1.3,2.85,67,47.66,1.2,EUR
+Versace,Luxury,2000,3,2.1,0.42,2.09,64,46.41,0.17,EUR
+Versace,Luxury,2001,3,2.1,0.49,2.13,65,46.24,0.2,EUR
+Versace,Luxury,2002,3,2.1,0.55,2.16,67,46.07,0.24,EUR
+Versace,Luxury,2003,3,2.1,0.62,2.2,69,45.9,0.28,EUR
+Versace,Luxury,2004,3,2.1,0.69,2.24,71,45.73,0.31,EUR
+Versace,Luxury,2005,3,2.1,0.76,2.27,72,45.57,0.35,EUR
+Versace,Luxury,2006,3,2.1,0.82,2.31,74,45.4,0.39,EUR
+Versace,Luxury,2007,3,2.1,0.89,2.34,76,45.23,0.43,EUR
+Versace,Luxury,2008,3,2.1,0.96,2.38,77,45.06,0.46,EUR
+Versace,Luxury,2009,3,2.1,1.02,2.42,79,44.89,0.5,EUR
+Versace,Luxury,2010,3,2.1,1.09,2.45,81,44.72,0.54,EUR
+Versace,Luxury,2011,3,2.1,1.16,2.49,83,44.55,0.58,EUR
+Versace,Luxury,2012,3,2.1,1.23,2.52,84,44.38,0.61,EUR
+Versace,Luxury,2013,3,2.1,1.29,2.56,86,44.22,0.65,EUR
+Versace,Luxury,2014,3,2.1,1.36,2.6,88,44.05,0.69,EUR
+Versace,Luxury,2015,3,2.1,1.43,2.63,89,43.88,0.73,EUR
+Versace,Luxury,2016,3,2.1,1.5,2.67,91,43.71,0.76,EUR
+Versace,Luxury,2017,3,2.1,1.56,2.7,93,43.54,0.8,EUR
+Versace,Luxury,2018,3,2.1,1.63,2.74,95,43.37,0.84,EUR
+Versace,Luxury,2019,3,2.1,1.7,2.77,96,43.2,0.88,EUR
+Versace,Luxury,2020,3,2.1,1.76,2.81,98,43.03,0.91,EUR
+Versace,Luxury,2021,3,2.1,1.83,2.85,100,42.87,0.95,EUR
+Versace,Luxury,2022,3,2.1,1.9,2.88,101,42.7,0.99,EUR
+Versace,Luxury,2023,3,2.1,1.97,2.92,103,42.53,1.03,EUR
+Versace,Luxury,2024,3,2.1,2.03,2.95,105,42.36,1.06,EUR
+Versace,Luxury,2025,3,2.1,2.1,2.99,107,42.19,1.1,EUR
+Celine,Luxury,2000,5,2.76,0.55,3.5,193,43.43,0.22,EUR
+Celine,Luxury,2001,5,2.76,0.64,3.56,198,43.27,0.28,EUR
+Celine,Luxury,2002,5,2.76,0.73,3.62,203,43.11,0.33,EUR
+Celine,Luxury,2003,5,2.76,0.82,3.68,208,42.95,0.38,EUR
+Celine,Luxury,2004,5,2.76,0.91,3.74,213,42.8,0.43,EUR
+Celine,Luxury,2005,5,2.76,0.99,3.8,218,42.64,0.48,EUR
+Celine,Luxury,2006,5,2.76,1.08,3.86,224,42.48,0.53,EUR
+Celine,Luxury,2007,5,2.76,1.17,3.92,229,42.32,0.58,EUR
+Celine,Luxury,2008,5,2.76,1.26,3.98,234,42.16,0.63,EUR
+Celine,Luxury,2009,5,2.76,1.35,4.04,239,42.01,0.68,EUR
+Celine,Luxury,2010,5,2.76,1.44,4.1,244,41.85,0.73,EUR
+Celine,Luxury,2011,5,2.76,1.52,4.16,249,41.69,0.79,EUR
+Celine,Luxury,2012,5,2.76,1.61,4.22,255,41.53,0.84,EUR
+Celine,Luxury,2013,5,2.76,1.7,4.28,260,41.38,0.89,EUR
+Celine,Luxury,2014,5,2.76,1.79,4.34,265,41.22,0.94,EUR
+Celine,Luxury,2015,5,2.76,1.88,4.4,270,41.06,0.99,EUR
+Celine,Luxury,2016,5,2.76,1.97,4.46,275,40.9,1.04,EUR
+Celine,Luxury,2017,5,2.76,2.05,4.52,280,40.74,1.09,EUR
+Celine,Luxury,2018,5,2.76,2.14,4.58,285,40.59,1.14,EUR
+Celine,Luxury,2019,5,2.76,2.23,4.64,291,40.43,1.19,EUR
+Celine,Luxury,2020,5,2.76,2.32,4.7,296,40.27,1.25,EUR
+Celine,Luxury,2021,5,2.76,2.41,4.76,301,40.11,1.3,EUR
+Celine,Luxury,2022,5,2.76,2.5,4.82,306,39.95,1.35,EUR
+Celine,Luxury,2023,5,2.76,2.58,4.88,311,39.8,1.4,EUR
+Celine,Luxury,2024,5,2.76,2.67,4.94,316,39.64,1.45,EUR
+Celine,Luxury,2025,5,2.76,2.76,5,322,39.48,1.5,EUR
+Givenchy,Luxury,2000,4,0.55,0.11,3.62,266,40.84,0.12,EUR
+Givenchy,Luxury,2001,4,0.55,0.13,3.68,273,40.69,0.15,EUR
+Givenchy,Luxury,2002,4,0.55,0.15,3.74,280,40.55,0.17,EUR
+Givenchy,Luxury,2003,4,0.55,0.16,3.81,287,40.4,0.2,EUR
+Givenchy,Luxury,2004,4,0.55,0.18,3.87,294,40.25,0.23,EUR
+Givenchy,Luxury,2005,4,0.55,0.2,3.93,301,40.1,0.26,EUR
+Givenchy,Luxury,2006,4,0.55,0.22,3.99,309,39.95,0.28,EUR
+Givenchy,Luxury,2007,4,0.55,0.23,4.05,316,39.8,0.31,EUR
+Givenchy,Luxury,2008,4,0.55,0.25,4.12,323,39.65,0.34,EUR
+Givenchy,Luxury,2009,4,0.55,0.27,4.18,330,39.51,0.36,EUR
+Givenchy,Luxury,2010,4,0.55,0.29,4.24,337,39.36,0.39,EUR
+Givenchy,Luxury,2011,4,0.55,0.3,4.3,344,39.21,0.42,EUR
+Givenchy,Luxury,2012,4,0.55,0.32,4.36,351,39.06,0.45,EUR
+Givenchy,Luxury,2013,4,0.55,0.34,4.43,358,38.91,0.47,EUR
+Givenchy,Luxury,2014,4,0.55,0.36,4.49,365,38.76,0.5,EUR
+Givenchy,Luxury,2015,4,0.55,0.37,4.55,372,38.62,0.53,EUR
+Givenchy,Luxury,2016,4,0.55,0.39,4.61,380,38.47,0.56,EUR
+Givenchy,Luxury,2017,4,0.55,0.41,4.67,387,38.32,0.58,EUR
+Givenchy,Luxury,2018,4,0.55,0.43,4.74,394,38.17,0.61,EUR
+Givenchy,Luxury,2019,4,0.55,0.44,4.8,401,38.02,0.64,EUR
+Givenchy,Luxury,2020,4,0.55,0.46,4.86,408,37.87,0.66,EUR
+Givenchy,Luxury,2021,4,0.55,0.48,4.92,415,37.72,0.69,EUR
+Givenchy,Luxury,2022,4,0.55,0.5,4.98,422,37.58,0.72,EUR
+Givenchy,Luxury,2023,4,0.55,0.51,5.05,429,37.43,0.75,EUR
+Givenchy,Luxury,2024,4,0.55,0.53,5.11,436,37.28,0.77,EUR
+Givenchy,Luxury,2025,4,0.55,0.55,5.17,444,37.13,0.8,EUR
+Moncler,Luxury,2000,4,2.71,0.54,2.48,201,62.19,0.45,EUR
+Moncler,Luxury,2001,4,2.71,0.63,2.53,206,61.97,0.55,EUR
+Moncler,Luxury,2002,4,2.71,0.72,2.57,212,61.74,0.65,EUR
+Moncler,Luxury,2003,4,2.71,0.8,2.61,217,61.52,0.76,EUR
+Moncler,Luxury,2004,4,2.71,0.89,2.66,223,61.29,0.86,EUR
+Moncler,Luxury,2005,4,2.71,0.98,2.7,228,61.06,0.96,EUR
+Moncler,Luxury,2006,4,2.71,1.06,2.74,233,60.84,1.06,EUR
+Moncler,Luxury,2007,4,2.71,1.15,2.78,239,60.61,1.16,EUR
+Moncler,Luxury,2008,4,2.71,1.24,2.83,244,60.38,1.27,EUR
+Moncler,Luxury,2009,4,2.71,1.32,2.87,249,60.16,1.37,EUR
+Moncler,Luxury,2010,4,2.71,1.41,2.91,255,59.93,1.47,EUR
+Moncler,Luxury,2011,4,2.71,1.5,2.95,260,59.71,1.57,EUR
+Moncler,Luxury,2012,4,2.71,1.58,3,266,59.48,1.67,EUR
+Moncler,Luxury,2013,4,2.71,1.67,3.04,271,59.25,1.78,EUR
+Moncler,Luxury,2014,4,2.71,1.76,3.08,276,59.03,1.88,EUR
+Moncler,Luxury,2015,4,2.71,1.84,3.12,282,58.8,1.98,EUR
+Moncler,Luxury,2016,4,2.71,1.93,3.17,287,58.58,2.08,EUR
+Moncler,Luxury,2017,4,2.71,2.02,3.21,292,58.35,2.18,EUR
+Moncler,Luxury,2018,4,2.71,2.1,3.25,298,58.12,2.29,EUR
+Moncler,Luxury,2019,4,2.71,2.19,3.29,303,57.9,2.39,EUR
+Moncler,Luxury,2020,4,2.71,2.28,3.34,309,57.67,2.49,EUR
+Moncler,Luxury,2021,4,2.71,2.36,3.38,314,57.44,2.59,EUR
+Moncler,Luxury,2022,4,2.71,2.45,3.42,319,57.22,2.69,EUR
+Moncler,Luxury,2023,4,2.71,2.54,3.46,325,56.99,2.8,EUR
+Moncler,Luxury,2024,4,2.71,2.62,3.51,330,56.77,2.9,EUR
+Moncler,Luxury,2025,4,2.71,2.71,3.55,336,56.54,3,EUR
+Burberry,Luxury,2000,4,3.7,0.74,2.05,54,44.19,0.48,GBP
+Burberry,Luxury,2001,4,3.7,0.86,2.09,56,44.03,0.58,GBP
+Burberry,Luxury,2002,4,3.7,0.98,2.12,57,43.87,0.69,GBP
+Burberry,Luxury,2003,4,3.7,1.1,2.16,58,43.7,0.8,GBP
+Burberry,Luxury,2004,4,3.7,1.21,2.19,60,43.54,0.91,GBP
+Burberry,Luxury,2005,4,3.7,1.33,2.23,61,43.38,1.01,GBP
+Burberry,Luxury,2006,4,3.7,1.45,2.26,63,43.22,1.12,GBP
+Burberry,Luxury,2007,4,3.7,1.57,2.3,64,43.06,1.23,GBP
+Burberry,Luxury,2008,4,3.7,1.69,2.33,66,42.9,1.34,GBP
+Burberry,Luxury,2009,4,3.7,1.81,2.37,67,42.74,1.45,GBP
+Burberry,Luxury,2010,4,3.7,1.92,2.4,69,42.58,1.55,GBP
+Burberry,Luxury,2011,4,3.7,2.04,2.44,70,42.42,1.66,GBP
+Burberry,Luxury,2012,4,3.7,2.16,2.47,72,42.26,1.77,GBP
+Burberry,Luxury,2013,4,3.7,2.28,2.51,73,42.1,1.88,GBP
+Burberry,Luxury,2014,4,3.7,2.4,2.54,74,41.94,1.98,GBP
+Burberry,Luxury,2015,4,3.7,2.52,2.58,76,41.78,2.09,GBP
+Burberry,Luxury,2016,4,3.7,2.63,2.61,77,41.62,2.2,GBP
+Burberry,Luxury,2017,4,3.7,2.75,2.65,79,41.46,2.31,GBP
+Burberry,Luxury,2018,4,3.7,2.87,2.68,80,41.29,2.42,GBP
+Burberry,Luxury,2019,4,3.7,2.99,2.72,82,41.13,2.52,GBP
+Burberry,Luxury,2020,4,3.7,3.11,2.75,83,40.97,2.63,GBP
+Burberry,Luxury,2021,4,3.7,3.23,2.79,85,40.81,2.74,GBP
+Burberry,Luxury,2022,4,3.7,3.34,2.82,86,40.65,2.85,GBP
+Burberry,Luxury,2023,4,3.7,3.46,2.86,88,40.49,2.95,GBP
+Burberry,Luxury,2024,4,3.7,3.58,2.89,89,40.33,3.06,GBP
+Burberry,Luxury,2025,4,3.7,3.7,2.93,91,40.17,3.17,GBP
+Nike,Mass Premium,2000,2,105.6,21.12,3.31,102,43.9,7.7,USD
+Nike,Mass Premium,2001,2,105.6,24.5,3.37,104,43.74,9.45,USD
+Nike,Mass Premium,2002,2,105.6,27.88,3.42,107,43.58,11.2,USD
+Nike,Mass Premium,2003,2,105.6,31.26,3.48,110,43.42,12.94,USD
+Nike,Mass Premium,2004,2,105.6,34.64,3.54,112,43.26,14.69,USD
+Nike,Mass Premium,2005,2,105.6,38.02,3.59,115,43.1,16.44,USD
+Nike,Mass Premium,2006,2,105.6,41.4,3.65,118,42.94,18.18,USD
+Nike,Mass Premium,2007,2,105.6,44.77,3.71,121,42.78,19.93,USD
+Nike,Mass Premium,2008,2,105.6,48.15,3.77,123,42.62,21.67,USD
+Nike,Mass Premium,2009,2,105.6,51.53,3.82,126,42.46,23.42,USD
+Nike,Mass Premium,2010,2,105.6,54.91,3.88,129,42.3,25.17,USD
+Nike,Mass Premium,2011,2,105.6,58.29,3.94,131,42.14,26.91,USD
+Nike,Mass Premium,2012,2,105.6,61.67,3.99,134,41.99,28.66,USD
+Nike,Mass Premium,2013,2,105.6,65.05,4.05,137,41.83,30.41,USD
+Nike,Mass Premium,2014,2,105.6,68.43,4.11,140,41.67,32.15,USD
+Nike,Mass Premium,2015,2,105.6,71.81,4.16,142,41.51,33.9,USD
+Nike,Mass Premium,2016,2,105.6,75.19,4.22,145,41.35,35.64,USD
+Nike,Mass Premium,2017,2,105.6,78.57,4.28,148,41.19,37.39,USD
+Nike,Mass Premium,2018,2,105.6,81.95,4.33,150,41.03,39.14,USD
+Nike,Mass Premium,2019,2,105.6,85.32,4.39,153,40.87,40.88,USD
+Nike,Mass Premium,2020,2,105.6,88.7,4.45,156,40.71,42.63,USD
+Nike,Mass Premium,2021,2,105.6,92.08,4.5,159,40.55,44.38,USD
+Nike,Mass Premium,2022,2,105.6,95.46,4.56,161,40.39,46.12,USD
+Nike,Mass Premium,2023,2,105.6,98.84,4.62,164,40.23,47.87,USD
+Nike,Mass Premium,2024,2,105.6,102.22,4.67,167,40.07,49.61,USD
+Nike,Mass Premium,2025,2,105.6,105.6,4.73,170,39.91,51.36,USD
+Adidas,Mass Premium,2000,2,27.7,5.54,3.47,94,56.42,3.83,USD
+Adidas,Mass Premium,2001,2,27.7,6.43,3.53,97,56.21,4.69,USD
+Adidas,Mass Premium,2002,2,27.7,7.31,3.59,99,56.01,5.56,USD
+Adidas,Mass Premium,2003,2,27.7,8.2,3.65,102,55.8,6.43,USD
+Adidas,Mass Premium,2004,2,27.7,9.09,3.71,104,55.6,7.3,USD
+Adidas,Mass Premium,2005,2,27.7,9.97,3.77,107,55.39,8.16,USD
+Adidas,Mass Premium,2006,2,27.7,10.86,3.83,109,55.19,9.03,USD
+Adidas,Mass Premium,2007,2,27.7,11.74,3.89,112,54.98,9.9,USD
+Adidas,Mass Premium,2008,2,27.7,12.63,3.95,115,54.78,10.77,USD
+Adidas,Mass Premium,2009,2,27.7,13.52,4.01,117,54.57,11.63,USD
+Adidas,Mass Premium,2010,2,27.7,14.4,4.07,120,54.37,12.5,USD
+Adidas,Mass Premium,2011,2,27.7,15.29,4.13,122,54.16,13.37,USD
+Adidas,Mass Premium,2012,2,27.7,16.18,4.19,125,53.96,14.23,USD
+Adidas,Mass Premium,2013,2,27.7,17.06,4.25,127,53.75,15.1,USD
+Adidas,Mass Premium,2014,2,27.7,17.95,4.31,130,53.55,15.97,USD
+Adidas,Mass Premium,2015,2,27.7,18.84,4.36,132,53.34,16.84,USD
+Adidas,Mass Premium,2016,2,27.7,19.72,4.42,135,53.14,17.7,USD
+Adidas,Mass Premium,2017,2,27.7,20.61,4.48,137,52.93,18.57,USD
+Adidas,Mass Premium,2018,2,27.7,21.5,4.54,140,52.73,19.44,USD
+Adidas,Mass Premium,2019,2,27.7,22.38,4.6,142,52.52,20.31,USD
+Adidas,Mass Premium,2020,2,27.7,23.27,4.66,145,52.32,21.17,USD
+Adidas,Mass Premium,2021,2,27.7,24.15,4.72,147,52.11,22.04,USD
+Adidas,Mass Premium,2022,2,27.7,25.04,4.78,150,51.91,22.91,USD
+Adidas,Mass Premium,2023,2,27.7,25.93,4.84,152,51.7,23.78,USD
+Adidas,Mass Premium,2024,2,27.7,26.81,4.9,155,51.5,24.64,USD
+Adidas,Mass Premium,2025,2,27.7,27.7,4.96,158,51.29,25.51,USD
+Lululemon,Premium,2000,3,32.2,6.44,3.72,113,33.68,1.59,USD
+Lululemon,Premium,2001,3,32.2,7.47,3.79,116,33.56,1.95,USD
+Lululemon,Premium,2002,3,32.2,8.5,3.85,119,33.44,2.31,USD
+Lululemon,Premium,2003,3,32.2,9.53,3.92,122,33.31,2.67,USD
+Lululemon,Premium,2004,3,32.2,10.56,3.98,125,33.19,3.03,USD
+Lululemon,Premium,2005,3,32.2,11.59,4.04,128,33.07,3.39,USD
+Lululemon,Premium,2006,3,32.2,12.62,4.11,131,32.95,3.75,USD
+Lululemon,Premium,2007,3,32.2,13.65,4.17,134,32.82,4.11,USD
+Lululemon,Premium,2008,3,32.2,14.68,4.23,137,32.7,4.46,USD
+Lululemon,Premium,2009,3,32.2,15.71,4.3,140,32.58,4.82,USD
+Lululemon,Premium,2010,3,32.2,16.74,4.36,143,32.46,5.18,USD
+Lululemon,Premium,2011,3,32.2,17.77,4.43,146,32.33,5.54,USD
+Lululemon,Premium,2012,3,32.2,18.8,4.49,149,32.21,5.9,USD
+Lululemon,Premium,2013,3,32.2,19.84,4.55,152,32.09,6.26,USD
+Lululemon,Premium,2014,3,32.2,20.87,4.62,155,31.97,6.62,USD
+Lululemon,Premium,2015,3,32.2,21.9,4.68,158,31.84,6.98,USD
+Lululemon,Premium,2016,3,32.2,22.93,4.75,161,31.72,7.34,USD
+Lululemon,Premium,2017,3,32.2,23.96,4.81,164,31.6,7.7,USD
+Lululemon,Premium,2018,3,32.2,24.99,4.87,167,31.48,8.06,USD
+Lululemon,Premium,2019,3,32.2,26.02,4.94,170,31.35,8.42,USD
+Lululemon,Premium,2020,3,32.2,27.05,5,173,31.23,8.78,USD
+Lululemon,Premium,2021,3,32.2,28.08,5.06,176,31.11,9.14,USD
+Lululemon,Premium,2022,3,32.2,29.11,5.13,179,30.99,9.5,USD
+Lululemon,Premium,2023,3,32.2,30.14,5.19,182,30.86,9.86,USD
+Lululemon,Premium,2024,3,32.2,31.17,5.26,185,30.74,10.22,USD
+Lululemon,Premium,2025,3,32.2,32.2,5.32,189,30.62,10.58,USD
+Uniqlo,Premium,2000,3,101.8,20.36,4.54,111,45.29,3.1,USD
+Uniqlo,Premium,2001,3,101.8,23.62,4.62,113,45.12,3.8,USD
+Uniqlo,Premium,2002,3,101.8,26.88,4.7,116,44.96,4.5,USD
+Uniqlo,Premium,2003,3,101.8,30.13,4.78,119,44.79,5.21,USD
+Uniqlo,Premium,2004,3,101.8,33.39,4.85,122,44.63,5.91,USD
+Uniqlo,Premium,2005,3,101.8,36.65,4.93,125,44.46,6.61,USD
+Uniqlo,Premium,2006,3,101.8,39.91,5.01,128,44.3,7.31,USD
+Uniqlo,Premium,2007,3,101.8,43.16,5.09,131,44.13,8.02,USD
+Uniqlo,Premium,2008,3,101.8,46.42,5.17,134,43.97,8.72,USD
+Uniqlo,Premium,2009,3,101.8,49.68,5.24,137,43.8,9.42,USD
+Uniqlo,Premium,2010,3,101.8,52.94,5.32,140,43.64,10.12,USD
+Uniqlo,Premium,2011,3,101.8,56.19,5.4,143,43.48,10.83,USD
+Uniqlo,Premium,2012,3,101.8,59.45,5.48,146,43.31,11.53,USD
+Uniqlo,Premium,2013,3,101.8,62.71,5.56,149,43.15,12.23,USD
+Uniqlo,Premium,2014,3,101.8,65.97,5.63,152,42.98,12.93,USD
+Uniqlo,Premium,2015,3,101.8,69.22,5.71,155,42.82,13.64,USD
+Uniqlo,Premium,2016,3,101.8,72.48,5.79,158,42.65,14.34,USD
+Uniqlo,Premium,2017,3,101.8,75.74,5.87,161,42.49,15.04,USD
+Uniqlo,Premium,2018,3,101.8,79,5.94,164,42.32,15.74,USD
+Uniqlo,Premium,2019,3,101.8,82.25,6.02,167,42.16,16.45,USD
+Uniqlo,Premium,2020,3,101.8,85.51,6.1,170,41.99,17.15,USD
+Uniqlo,Premium,2021,3,101.8,88.77,6.18,173,41.83,17.85,USD
+Uniqlo,Premium,2022,3,101.8,92.03,6.26,176,41.66,18.55,USD
+Uniqlo,Premium,2023,3,101.8,95.28,6.33,179,41.5,19.26,USD
+Uniqlo,Premium,2024,3,101.8,98.54,6.41,182,41.33,19.96,USD
+Uniqlo,Premium,2025,3,101.8,101.8,6.49,185,41.17,20.66,USD
+Zara,Fast Fashion,2000,4,84.47,16.89,4.23,255,48,4.95,EUR
+Zara,Fast Fashion,2001,4,84.47,19.6,4.3,262,47.83,6.07,EUR
+Zara,Fast Fashion,2002,4,84.47,22.3,4.37,269,47.65,7.19,EUR
+Zara,Fast Fashion,2003,4,84.47,25,4.45,276,47.48,8.32,EUR
+Zara,Fast Fashion,2004,4,84.47,27.71,4.52,282,47.31,9.44,EUR
+Zara,Fast Fashion,2005,4,84.47,30.41,4.59,289,47.13,10.56,EUR
+Zara,Fast Fashion,2006,4,84.47,33.11,4.66,296,46.96,11.68,EUR
+Zara,Fast Fashion,2007,4,84.47,35.82,4.74,303,46.78,12.8,EUR
+Zara,Fast Fashion,2008,4,84.47,38.52,4.81,310,46.61,13.93,EUR
+Zara,Fast Fashion,2009,4,84.47,41.22,4.88,316,46.43,15.05,EUR
+Zara,Fast Fashion,2010,4,84.47,43.92,4.95,323,46.26,16.17,EUR
+Zara,Fast Fashion,2011,4,84.47,46.63,5.03,330,46.08,17.29,EUR
+Zara,Fast Fashion,2012,4,84.47,49.33,5.1,337,45.91,18.41,EUR
+Zara,Fast Fashion,2013,4,84.47,52.03,5.17,344,45.73,19.54,EUR
+Zara,Fast Fashion,2014,4,84.47,54.74,5.24,351,45.56,20.66,EUR
+Zara,Fast Fashion,2015,4,84.47,57.44,5.32,357,45.39,21.78,EUR
+Zara,Fast Fashion,2016,4,84.47,60.14,5.39,364,45.21,22.9,EUR
+Zara,Fast Fashion,2017,4,84.47,62.85,5.46,371,45.04,24.02,EUR
+Zara,Fast Fashion,2018,4,84.47,65.55,5.53,378,44.86,25.15,EUR
+Zara,Fast Fashion,2019,4,84.47,68.25,5.61,385,44.69,26.27,EUR
+Zara,Fast Fashion,2020,4,84.47,70.95,5.68,391,44.51,27.39,EUR
+Zara,Fast Fashion,2021,4,84.47,73.66,5.75,398,44.34,28.51,EUR
+Zara,Fast Fashion,2022,4,84.47,76.36,5.82,405,44.16,29.63,EUR
+Zara,Fast Fashion,2023,4,84.47,79.06,5.9,412,43.99,30.76,EUR
+Zara,Fast Fashion,2024,4,84.47,81.77,5.97,419,43.81,31.88,EUR
+Zara,Fast Fashion,2025,4,84.47,84.47,6.04,426,43.64,33,EUR
+H&M,Fast Fashion,2000,3,106.5,21.3,5.43,147,37.05,3.3,EUR
+H&M,Fast Fashion,2001,3,106.5,24.71,5.53,151,36.91,4.05,EUR
+H&M,Fast Fashion,2002,3,106.5,28.12,5.62,155,36.78,4.8,EUR
+H&M,Fast Fashion,2003,3,106.5,31.52,5.71,159,36.64,5.54,EUR
+H&M,Fast Fashion,2004,3,106.5,34.93,5.8,163,36.51,6.29,EUR
+H&M,Fast Fashion,2005,3,106.5,38.34,5.9,167,36.37,7.04,EUR
+H&M,Fast Fashion,2006,3,106.5,41.75,5.99,171,36.24,7.79,EUR
+H&M,Fast Fashion,2007,3,106.5,45.16,6.08,175,36.1,8.54,EUR
+H&M,Fast Fashion,2008,3,106.5,48.56,6.18,179,35.97,9.28,EUR
+H&M,Fast Fashion,2009,3,106.5,51.97,6.27,183,35.84,10.03,EUR
+H&M,Fast Fashion,2010,3,106.5,55.38,6.36,186,35.7,10.78,EUR
+H&M,Fast Fashion,2011,3,106.5,58.79,6.46,190,35.57,11.53,EUR
+H&M,Fast Fashion,2012,3,106.5,62.2,6.55,194,35.43,12.28,EUR
+H&M,Fast Fashion,2013,3,106.5,65.6,6.64,198,35.3,13.02,EUR
+H&M,Fast Fashion,2014,3,106.5,69.01,6.74,202,35.16,13.77,EUR
+H&M,Fast Fashion,2015,3,106.5,72.42,6.83,206,35.03,14.52,EUR
+H&M,Fast Fashion,2016,3,106.5,75.83,6.92,210,34.89,15.27,EUR
+H&M,Fast Fashion,2017,3,106.5,79.24,7.02,214,34.76,16.02,EUR
+H&M,Fast Fashion,2018,3,106.5,82.64,7.11,218,34.62,16.76,EUR
+H&M,Fast Fashion,2019,3,106.5,86.05,7.2,222,34.49,17.51,EUR
+H&M,Fast Fashion,2020,3,106.5,89.46,7.29,226,34.35,18.26,EUR
+H&M,Fast Fashion,2021,3,106.5,92.87,7.39,230,34.22,19.01,EUR
+H&M,Fast Fashion,2022,3,106.5,96.28,7.48,234,34.08,19.76,EUR
+H&M,Fast Fashion,2023,3,106.5,99.68,7.57,238,33.95,20.5,EUR
+H&M,Fast Fashion,2024,3,106.5,103.09,7.67,242,33.81,21.25,EUR
+H&M,Fast Fashion,2025,3,106.5,106.5,7.76,246,33.68,22,EUR
+Shein,Fast Fashion,2000,1,336.45,67.29,2.98,276,58.85,4.5,USD
+Shein,Fast Fashion,2001,1,336.45,78.06,3.03,283,58.64,5.52,USD
+Shein,Fast Fashion,2002,1,336.45,88.82,3.08,291,58.42,6.54,USD
+Shein,Fast Fashion,2003,1,336.45,99.59,3.14,298,58.21,7.56,USD
+Shein,Fast Fashion,2004,1,336.45,110.36,3.19,306,57.99,8.58,USD
+Shein,Fast Fashion,2005,1,336.45,121.12,3.24,313,57.78,9.6,USD
+Shein,Fast Fashion,2006,1,336.45,131.89,3.29,320,57.57,10.62,USD
+Shein,Fast Fashion,2007,1,336.45,142.65,3.34,328,57.35,11.64,USD
+Shein,Fast Fashion,2008,1,336.45,153.42,3.39,335,57.14,12.66,USD
+Shein,Fast Fashion,2009,1,336.45,164.19,3.44,342,56.92,13.68,USD
+Shein,Fast Fashion,2010,1,336.45,174.95,3.49,350,56.71,14.7,USD
+Shein,Fast Fashion,2011,1,336.45,185.72,3.54,357,56.5,15.72,USD
+Shein,Fast Fashion,2012,1,336.45,196.49,3.6,365,56.28,16.74,USD
+Shein,Fast Fashion,2013,1,336.45,207.25,3.65,372,56.07,17.76,USD
+Shein,Fast Fashion,2014,1,336.45,218.02,3.7,379,55.85,18.78,USD
+Shein,Fast Fashion,2015,1,336.45,228.79,3.75,387,55.64,19.8,USD
+Shein,Fast Fashion,2016,1,336.45,239.55,3.8,394,55.43,20.82,USD
+Shein,Fast Fashion,2017,1,336.45,250.32,3.85,401,55.21,21.84,USD
+Shein,Fast Fashion,2018,1,336.45,261.09,3.9,409,55,22.86,USD
+Shein,Fast Fashion,2019,1,336.45,271.85,3.95,416,54.78,23.88,USD
+Shein,Fast Fashion,2020,1,336.45,282.62,4,424,54.57,24.9,USD
+Shein,Fast Fashion,2021,1,336.45,293.38,4.06,431,54.36,25.92,USD
+Shein,Fast Fashion,2022,1,336.45,304.15,4.11,438,54.14,26.94,USD
+Shein,Fast Fashion,2023,1,336.45,314.92,4.16,446,53.93,27.96,USD
+Shein,Fast Fashion,2024,1,336.45,325.68,4.21,453,53.71,28.98,USD
+Shein,Fast Fashion,2025,1,336.45,336.45,4.26,461,53.5,30,USD
+Sephora,Beauty Retail,2000,3,43.07,8.61,2.78,296,57.28,1.5,USD
+Sephora,Beauty Retail,2001,3,43.07,9.99,2.83,304,57.07,1.84,USD
+Sephora,Beauty Retail,2002,3,43.07,11.37,2.87,312,56.86,2.18,USD
+Sephora,Beauty Retail,2003,3,43.07,12.75,2.92,320,56.65,2.52,USD
+Sephora,Beauty Retail,2004,3,43.07,14.13,2.97,328,56.44,2.86,USD
+Sephora,Beauty Retail,2005,3,43.07,15.51,3.02,335,56.24,3.2,USD
+Sephora,Beauty Retail,2006,3,43.07,16.88,3.06,343,56.03,3.54,USD
+Sephora,Beauty Retail,2007,3,43.07,18.26,3.11,351,55.82,3.88,USD
+Sephora,Beauty Retail,2008,3,43.07,19.64,3.16,359,55.61,4.22,USD
+Sephora,Beauty Retail,2009,3,43.07,21.02,3.21,367,55.4,4.56,USD
+Sephora,Beauty Retail,2010,3,43.07,22.4,3.26,375,55.19,4.9,USD
+Sephora,Beauty Retail,2011,3,43.07,23.77,3.3,383,54.99,5.24,USD
+Sephora,Beauty Retail,2012,3,43.07,25.15,3.35,391,54.78,5.58,USD
+Sephora,Beauty Retail,2013,3,43.07,26.53,3.4,399,54.57,5.92,USD
+Sephora,Beauty Retail,2014,3,43.07,27.91,3.45,407,54.36,6.26,USD
+Sephora,Beauty Retail,2015,3,43.07,29.29,3.49,414,54.15,6.6,USD
+Sephora,Beauty Retail,2016,3,43.07,30.67,3.54,422,53.94,6.94,USD
+Sephora,Beauty Retail,2017,3,43.07,32.04,3.59,430,53.74,7.28,USD
+Sephora,Beauty Retail,2018,3,43.07,33.42,3.64,438,53.53,7.62,USD
+Sephora,Beauty Retail,2019,3,43.07,34.8,3.68,446,53.32,7.96,USD
+Sephora,Beauty Retail,2020,3,43.07,36.18,3.73,454,53.11,8.3,USD
+Sephora,Beauty Retail,2021,3,43.07,37.56,3.78,462,52.9,8.64,USD
+Sephora,Beauty Retail,2022,3,43.07,38.94,3.83,470,52.69,8.98,USD
+Sephora,Beauty Retail,2023,3,43.07,40.31,3.87,478,52.49,9.32,USD
+Sephora,Beauty Retail,2024,3,43.07,41.69,3.92,486,52.28,9.66,USD
+Sephora,Beauty Retail,2025,3,43.07,43.07,3.97,494,52.07,10,USD
